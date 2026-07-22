@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cudhayakumar.github.io/reference-1o1b6b/sitemap.xml
